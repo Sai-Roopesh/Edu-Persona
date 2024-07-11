@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+sentence_transformers
+faiss-cpu
+numpy
+python-dotenv
+google-cloud-aiplatform
+pdfminer.six
+fpdf
